@@ -18,7 +18,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/C:/Users/Karina%20Dewi/AppData/Local/Android/Sdk/icons/material/materialicons/home/baseline_home_24.xml" />
+                                      <entry key="url" value="file:/C:/Users/Karina%20Dewi/AppData/Local/Android/Sdk/icons/material/materialicons/computer/baseline_computer_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -28,7 +28,7 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="baseline_home_24" />
+                            <entry key="outputName" value="baseline_computer_24" />
                             <entry key="sourceFile" value="D:\mobile_kelompok_3" />
                           </map>
                         </option>

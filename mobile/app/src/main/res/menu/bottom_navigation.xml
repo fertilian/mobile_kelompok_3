@@ -8,12 +8,15 @@
 
     <item
         android:id="@+id/navberanda"
-        android:icon="@drawable/baseline_home_24"
+        android:icon="@drawable/baseline_computer_24"
         android:title="Shop"/>
 
     <item
         android:id="@+id/navberanda"
-        android:icon="@drawable/baseline_home_24"
+        android:icon="@drawable/baseline_shopping_cart_24"
         android:title="Cart"/>
-
+    <item
+        android:id="@+id/navberanda"
+        android:icon="@drawable/baseline_emoji_people_24"
+        android:title="Akun"/>
 </menu>
